@@ -5,11 +5,7 @@ This is a **React Native** e-commerce app inspired by Amazon. It provides a seam
 
 ### Screen Recording
 
-<video width="100%" controls>
-  <source src="src/assets/simulator.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
-(https://ellafsd.github.io/amazon/)
+(https://ellafsd.github.io/amazon/)   <br /><br />
 
 
 ## 🖼️ Screenshots
