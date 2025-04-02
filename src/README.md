@@ -5,8 +5,15 @@ This is a **React Native** e-commerce app inspired by Amazon. It provides a seam
 
 ## 🖼️ Screenshots
 ### Home Page  
-![Home Screen](../assets/homePage.jpeg) {
+![Home Screen](.src/assets/homePage.jpeg)  <br />
 
 ### Product Page  
-![Product Screen](../assets/productPage.jpeg)
+![Product Screen](.src/assets/productPage.jpeg)   
 
+
+### Screen Recording
+
+<video width="100%" controls>
+  <source src="./src/assets/simulator.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
